@@ -21,12 +21,15 @@ Each case study includes:
 
 ## 🗂️ Case Studies
 
-| Case Study | Company | Link |
-|------------|--------|-------------------|------|
-| Spark Augmented Reality (AR) Filter Engagement Metrics | Meta | [View ➜](./case-study-1/case-study-1-overview.md) |
-| Case Study 2 | SaaS / Retention | Churn rate, cohort analysis, LTV | [View ➜](./case-study-2/case-study-2-overview.md) |
-| Case Study 3 | Ride Sharing | Driver performance, peak hours, avg ride value | Coming soon |
-| Case Study 4 | Banking | Customer segmentation, loan defaults | Coming soon |
+| Case Study                                     | Company | Link                                             |
+|------------------------------------------------|---------|--------------------------------------------------|
+| Spark Augmented Reality (AR) Filter Engagement Metrics | Meta    | [View ➜](./case-studies/case-study-1.md)         |
+| Ad Segment Performance Analysis                | Meta    | [View ➜](./case-studies/case-study-2.md)         |
+| Supplier Performance Metrics                   | Apple   | [View ➜](./case-studies/case-study-3.md)         |
+| User Playlist Retention and Discovery Rates    | Apple   | [View ➜](./case-studies/case-study-4.md)         |
+| User Engagement with Artist Recommendations   | Apple   | [View ➜](./case-studies/case-study-5.md)         |
+|  Subscriber Growth in Emerging Markets   | Netflix   | [View ➜](./case-studies/case-study-6.md)         |
+| User Playlist Engagement for Discovery    | Amazon  | [View ➜](./case-studies/case-study-7.md)         |
 
 > 💡 Each case is based on a mock company scenario and simulates interview-level problem-solving.
 
