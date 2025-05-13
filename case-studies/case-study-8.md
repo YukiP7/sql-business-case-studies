@@ -1,4 +1,4 @@
-# 📦 Case Study 7: Content Recommendation Algorithm Performance
+# 📦 Case Study 8: Content Recommendation Algorithm Performance
 
 ## 🧠 Business Scenario
 
