@@ -8,7 +8,6 @@ Each case study includes:
 - 📘 A business scenario and dataset schema
 - ❓ Three analytical SQL questions
 - ✅ Clean, optimized SQL solutions
-- 🧠 Step-by-step explanations for each query
 
 ---
 
@@ -30,6 +29,7 @@ Each case study includes:
 | User Engagement with Artist Recommendations   | Apple   | [View ➜](./case-studies/case-study-5.md)         |
 |  Subscriber Growth in Emerging Markets   | Netflix   | [View ➜](./case-studies/case-study-6.md)         |
 | User Playlist Engagement for Discovery    | Amazon  | [View ➜](./case-studies/case-study-7.md)         |
+| Content Recommendation Algorithm Performance    | Netflix  | [View ➜](./case-studies/case-study-8.md)         |
 
 > 💡 Each case is based on a mock company scenario and simulates interview-level problem-solving.
 
