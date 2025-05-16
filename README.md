@@ -30,6 +30,7 @@ Each case study includes:
 |  Subscriber Growth in Emerging Markets   | Netflix   | [View ➜](./case-studies/case-study-6.md)         |
 | User Playlist Engagement for Discovery    | Amazon  | [View ➜](./case-studies/case-study-7.md)         |
 | Content Recommendation Algorithm Performance    | Netflix  | [View ➜](./case-studies/case-study-8.md)         |
+| App Download Conversion Rates by Category   | Google | [View ➜](./case-studies/case-study-9.md)         |
 
 > 💡 Each case is based on a mock company scenario and simulates interview-level problem-solving.
 
